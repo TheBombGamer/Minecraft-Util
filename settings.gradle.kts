@@ -1,1 +1,1 @@
-rootProject.name = "DiscordSRV"
+rootProject.name = "MC Utils"
